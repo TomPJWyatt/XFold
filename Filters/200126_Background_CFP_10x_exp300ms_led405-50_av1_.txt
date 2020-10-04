@@ -1,0 +1,242 @@
+Name : 200126_Background_CFP_10x_exp300ms_led405-50_av1_	26/01/2020	21:52:09	
+
+Type : 16 bit grey/pseudo
+Intensity : 1.000000 lux
+x : 1012 * 0.639386 : um
+y : 466 * 0.636943 : um
+XY : 11
+
+
+[Environment]
+User=MSD Validation
+Configuration=DSD2 IX83_2
+Version=Andor iQ 3.5 
+[Environment End]
+[Created]
+Date=26/01/2020
+Time=21:49:33
+[Created End]
+[Protocol Description]
+Protocol - Protocol1
+	6D View Compatible - Yes
+	Image - 200126_Background_CFP_10x_exp300ms_led405-50_av1_
+		Camera Binning - Use Current
+		Wait Allocation - Off
+		Camera Selection - Use Current
+		Scan - 200102_10W_3Pos_BS
+		Events
+		Repeat - XY
+			XY Positions - (11)
+				XY 1 - (44424.4,40014.1,6621.01 ( No AF))
+				XY 2 - (44153.4,39987.1,6629.61 ( No AF))
+				XY 3 - (44750.3,41489.6,6606.81 ( No AF))
+				XY 4 - (51498.8,40143,6567.61 ( No AF))
+				XY 5 - (51498.8,40143,6567.61 ( No AF))
+				XY 6 - (44489,40301,6615.21 ( No AF))
+				XY 7 - (43165.5,40064.1,6626.41 ( No AF))
+				XY 8 - (44321.5,40547.8,6618.01 ( No AF))
+				XY 9 - (43773.5,39857.6,6629.01 ( No AF))
+				XY 10 - (42190.1,39834.5,6609.81 ( No AF))
+				XY 11 - (44303.5,39906.4,6635.01 ( No AF))
+			Repeat - Channel (CFP)
+				Channel Description
+					Channel - CFP
+						Camera EM Gain - 0
+						Camera Binning X - CURRENT
+						Camera Binning Y - CURRENT
+						Camera Exposure Time (s) - 0.30
+						Camera Exposure Units - 1
+						DSD Imaging Mode - 0
+						LUT - Blue
+						Map Min - 0
+						Map Max - 669
+						LED1 Exclude From Channel - 0
+						LED1 Intensity 1 - 50
+						LED1 Intensity 2 - -1
+						LED1 Intensity 3 - -1
+						LED1 Intensity 4 - -1
+						LED1 Intensity 5 - Current
+						LED1 Intensity 6 - Current
+						LED1 Intensity 7 - Current
+						LED1 Lines - 1
+						LED1 Pulsed Mode - 0
+						LED1 Shutter - Open-Closed
+						DSD Confocal Mode - 0
+						DSD Filter Wheel - 393
+						IXBX AFMirror - Current
+						IXBX Analyzer - Current
+						IXBX Condenser - Current
+						IXBX DIC - Current
+						IXBX Fluo Filter 1 - 1
+						IXBX Fluo Filter 2 - Current
+						IXBX Fluo Filter 3 - Current
+						IXBX Fluo Shutter 1 - Current
+						IXBX Polarizer - Current
+						IXBX Port - 1
+						IXBX Trans Filter 1 - Current
+						IXBX Trans Shutter 1 - Current
+						IXBX Z Motor (ZDC) - DELTA_Z 0
+				Snap - Frame
+			End - Channel
+		End - XY
+
+[Protocol Description End]
+[XYZScan]
+ScanName=200102_10W_3Pos_BS
+FileVersion=2
+Centre=False
+Channel=
+WellPattern=
+Density=0
+Calibration=
+XYFields=30	83628.1,46826.4,6922.66	84153,46925.5,6924.46	84977,46570.9,6925.43	70155.1,45102.8,6841.05	72947.1,46523.5,6869.47	73867.5,46523.5,6867.06	61074.5,46523.5,6844.85	61895,47342.5,6855.85	59859,46464.5,6848.04	50101.3,46559.5,6846.23	50228.5,46267,6843.41	50516.5,45010.9,6833	36659.4,46886.5,6867.03	37275.1,46591.5,6862.23	38128,47585,6862.61	37961.5,35147,6864.82	39902.5,35354.9,6855.21	40534.5,34197.8,6860.23	50237.4,34384,6851.05	49637.4,34384,6850.05	49794,33044.3,6863.44	63021.9,34878,6834.82	61527.9,34202.8,6843.02	60942.4,36200,6826.83	72476,34216,6862.81	72479.2,33614.5,6868.81	72479.2,33209.8,6872.22	81173.3,35198,6901.21	81866.6,34200.8,6915.21	81896.3,34768.4,6909.82
+ZScan=
+Montage=
+Plates=
+MontageOffsets=
+MF Scan Present=True
+[XYZScan End]
+[Region Info (Fields) Field]
+Width=647.058824
+Height=296.815287
+[Region Info (Fields) Field End]
+[Region Info (Fields)]
+11	5	RegionData6.0	26/01/2020	21:49:33	
+Class Name	Class Colour	Position X	Position Y	Position Z	
+Fields	32768	44424.400000	40014.200000
+6621.010000
+Fields	32768	44153.400000	39987.200000
+6629.610000
+Fields	32768	44750.300000	41489.700000
+6606.810000
+Fields	32768	51498.800000	40143.100000
+6567.610000
+Fields	32768	51498.800000	40143.100000
+6567.610000
+Fields	32768	44489.000000	40301.000000
+6615.210000
+Fields	32768	43165.600000	40064.200000
+6626.410000
+Fields	32768	44321.500000	40547.800000
+6618.010000
+Fields	32768	43773.600000	39857.700000
+6629.010000
+Fields	32768	42190.200000	39834.500000
+6609.810000
+Fields	32768	44303.500000	39906.400000
+6635.010000
+
+[Region Info (Fields) End]
+[DSD Parameters]
+Calibrated=1
+DSD Type=2
+DSD Serial Number=80003082
+Filter Wheel Position=3
+Confocality=High Signal
+Imaging Mode=0
+Imaging Mode Type=Confocal
+Calibration Reference=1575638030
+Calibration Time=Fri Dec 06 13:13:50 2019
+Raw Width=2048
+Raw Height=2048
+H Edge=0
+V Edge=0
+Center=96
+LHS Aspect=0
+Transform Aspect=1
+Flip LHS=0
+Flip RHS=1
+CF Weighting=1.00000002980232
+WF Weighting=1.00000002980232
+LHS CF Weighting=1
+LHS WF Weighting=1
+Baseline Correction Key=DEFAULT
+Background Correction Key=BinX,2,BinX,2,DSDFilter,4.DAPI
+LHS CF Weighting_0=1
+LHS WF Weighting_0=1
+[DSD Parameters End]
+[Grab Parameters]
+Camera=Zyla
+Window Left=10
+Window Top=44
+Window Right=2033
+Window Bottom=975
+Window Width=2024
+Window Height=932
+BinningX=2
+BinningY=2
+Image Width=1012
+Image Height=466
+Exposure=300.0 ms
+Rotation=2
+FlipV=0
+FlipH=1
+TimeStamps=Hardware
+[Grab Parameters End]
+[Tab Device Info]
+Camera=ZYLA-4.2P-USB3 5543
+InterfaceType=USB3
+ControllerCard=
+DriverVersion=2.100.33050.0
+CofVersion=0
+VxDVersion=0.0
+SoftwareTrigger=Supported
+BitDepth=16
+FPGA_Version=20150812.0
+Ocx_Version=5.4.15.10
+Ocx_Time=20:32:52 Jun 14 2016
+Ocx_File=C:\PROGRA~2\ANDORB~1\COMMON~1\KIDAND~1.OCX
+
+[Tab Device Info End]
+[Tab Exposure]
+Window=1012 : 466
+Shutter=Open
+Binning=2x2
+Temperature - Actual =0
+Display Control - Fastest=Checked
+Display Control - Display Rate=1
+Gains - Pre-Amp-Gain=16-bit (low noise & high well capacity)
+EM Gain - Enabled=Unchecked
+Gains - EMGain=0
+Exposure Time - Frame Transfer=Unchecked
+Exposure Time - unit=ms
+Exposure Time - exposure value=300.0
+Exposure Time - Readout in ms=9.830
+Experiment Control - FLZ=Unchecked
+Experiment Control - Trig Mode=Free Run
+Use Frame averaging=Unchecked
+Frames to be averaged=2
+Fastest Grab=Unchecked
+Available memory=4095
+[Tab Exposure End]
+[Tab Temperature/Shutter]
+Temperature Setting=-20
+Actual Temperature=0
+Cooling=lbl_Cooling
+Fan=Full
+TTL High Open=Checked
+Shutter Open Transfer Time=60
+Shutter Close Transfer Time=80
+[Tab Temperature/Shutter End]
+[Tab Read Parameters]
+Pixel Readout Rate=540 MHz - fastest readout
+Electronic Shuttering Mode=Rolling
+[Tab Read Parameters End]
+[Tab Image Orientation]
+Flip=Horizontal
+Rotation in Degrees=Anti-Clockwise 90
+[Tab Image Orientation End]
+[Image Info]
+Window Left=10
+Window Top=44
+Window Right=2033
+Window Bottom=975
+Window Width=2024
+Window Height=932
+Window BinningX=2
+Window BinningY=2
+[Image Info End]
+[First Frame]
+SavedTime=26/01/2020 21:49:35.449
+[First Frame End]
+
